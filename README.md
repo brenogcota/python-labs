@@ -20,9 +20,9 @@ Turma: TADS 6° Período
 - Não deixe de assistir ao  
 [Curso de Introdução ao Python](https://youtube.com/playlist?list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD) recomendado pelo professor. 
 
-1. Usando apenas duas variáveis inteiras, faça um programa em C++ que solicite ao usuário que  digite 5 números. Ao final, o programa escreverá na tela o produto de todos os números digitados. [Resposta](https://github.com/brenogcota/python-labs/issues/1)
+1. Usando apenas duas variáveis inteiras, faça um programa em C++ que solicite ao usuário que  digite 5 números. Ao final, o programa escreverá na tela o produto de todos os números digitados. [Resposta](https://github.com/brenogcota/python-labs/issues/2)
 
-2. Faça um programa em C++ que solicite ao usuário que digite os valores de dois pontos (A e  B) em um plano cartesiano (cada ponto é representado por suas coordenadas x e y). O  programa dará como saída a distância entre os dois pontos digitados. [Resposta](https://github.com/brenogcota/python-labs/issues/2)
+2. Faça um programa em C++ que solicite ao usuário que digite os valores de dois pontos (A e  B) em um plano cartesiano (cada ponto é representado por suas coordenadas x e y). O  programa dará como saída a distância entre os dois pontos digitados. [Resposta](https://github.com/brenogcota/python-labs/issues/1)
 
 DICA: o primeiro ponto pode ser representado pelas variáveis XA e YA e o segundo ponto  pode ser representado pelas variáveis XB e YB. Observe a imagem: 
 
