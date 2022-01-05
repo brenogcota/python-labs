@@ -20,9 +20,9 @@ Turma: TADS 6° Período
 - Não deixe de assistir ao  
 [Curso de Introdução ao Python](https://youtube.com/playlist?list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD) recomendado pelo professor. 
 
-1. Usando apenas duas variáveis inteiras, faça um programa em C++ que solicite ao usuário que  digite 5 números. Ao final, o programa escreverá na tela o produto de todos os números digitados. [Resposta](/issues/1)
+1. Usando apenas duas variáveis inteiras, faça um programa em C++ que solicite ao usuário que  digite 5 números. Ao final, o programa escreverá na tela o produto de todos os números digitados. [Resposta](https://github.com/brenogcota/python-labs/issues/1)
 
-2. Faça um programa em C++ que solicite ao usuário que digite os valores de dois pontos (A e  B) em um plano cartesiano (cada ponto é representado por suas coordenadas x e y). O  programa dará como saída a distância entre os dois pontos digitados. [Resposta](/issues/2)
+2. Faça um programa em C++ que solicite ao usuário que digite os valores de dois pontos (A e  B) em um plano cartesiano (cada ponto é representado por suas coordenadas x e y). O  programa dará como saída a distância entre os dois pontos digitados. [Resposta](https://github.com/brenogcota/python-labs/issues/2)
 
 DICA: o primeiro ponto pode ser representado pelas variáveis XA e YA e o segundo ponto  pode ser representado pelas variáveis XB e YB. Observe a imagem: 
 
@@ -33,11 +33,11 @@ A distância entre os dois pontos A e B pode ser dada pela fórmula:
 
 ![image](https://user-images.githubusercontent.com/46490801/148148003-44f08727-bc82-4ac4-af5c-307c46ef09b3.png)
 
-3. Faça um programa em C++ que solicite ao usuário um número inteiro que representa uma  quantidade de segundos. O programa exibirá na tela o valor convertido em horas, minutos e  segundos. Assim, se o usuário digitar o valor 78915, o programa dará como saída 21 horas,  55 min e 15 segundos. [Resposta](/issues/3)
+3. Faça um programa em C++ que solicite ao usuário um número inteiro que representa uma  quantidade de segundos. O programa exibirá na tela o valor convertido em horas, minutos e  segundos. Assim, se o usuário digitar o valor 78915, o programa dará como saída 21 horas,  55 min e 15 segundos. [Resposta](https://github.com/brenogcota/python-labs/issues/3)
 
-4. Faça um programa em C++ que faça exatamente o contrário da questão anterior, ou seja: o  usuário deve informar a quantidade de horas, minutos e segundos, e o programa fará a  conversão do valor digitado para segundos. Assim, se o usuário digitar os valores 21, 55 e 15,  o programa dará como saída 78915 segundos. [Resposta](/issues/4)
+4. Faça um programa em C++ que faça exatamente o contrário da questão anterior, ou seja: o  usuário deve informar a quantidade de horas, minutos e segundos, e o programa fará a  conversão do valor digitado para segundos. Assim, se o usuário digitar os valores 21, 55 e 15,  o programa dará como saída 78915 segundos. [Resposta](https://github.com/brenogcota/python-labs/issues/4)
 
-5. Faça um programa em C++ que receba como entrada a nota de um aluno entre 0 e 100 e  faça o seguinte: [Resposta](/issues/5)
+5. Faça um programa em C++ que receba como entrada a nota de um aluno entre 0 e 100 e  faça o seguinte: [Resposta](https://github.com/brenogcota/python-labs/issues/5)
 
 - se a nota for inválida (não estiver entre 0 e 100), apresentará uma mensagem informando  o caso; 
 
@@ -45,7 +45,7 @@ A distância entre os dois pontos A e B pode ser dada pela fórmula:
 
 - senão apresentará a mensagem “EM CONSTRUÇÃO”
 
-6. Faça um Programa em C++ que calcule e escreva o resultado da expressão: [Resposta](/issues/6)
+6. Faça um Programa em C++ que calcule e escreva o resultado da expressão: [Resposta](https://github.com/brenogcota/python-labs/issues/6)
 ![image](https://user-images.githubusercontent.com/46490801/148148058-c9626577-2946-4b3d-88fd-d518ca15822b.png)
 
 
